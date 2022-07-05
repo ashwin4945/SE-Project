@@ -1,0 +1,118 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  
+section 
+{
+    width:600px;
+	float:left;
+    padding:10px;	 	 
+}
+
+.flex-container 
+{
+    display: -webkit-flex;
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: green;
+}
+
+.flex-item 
+{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 50%;
+      margin: auto;
+  }
+  img.p
+  {
+  margin-top:2px;
+  }
+  #header 
+  {
+    background-color:red;
+    color:white;
+    text-align:center;
+    padding:5px;
+  }
+	#nav 
+	{
+        line-height:30px;
+        background-color:white;
+        height:300px;
+        width:400px;
+        float:left;
+        padding:5px;
+	    margin-left: 50px;
+    }
+	
+	#footer 
+    {
+        position: absolute;
+        background-color:black;
+        color:white;
+        clear:both;
+        top: 610px;
+        width: 1532px;
+        text-align:center;
+        padding:20px;	 	 
+    }
+
+    #findadonor
+    {
+        position: absolute;
+        left: 150px;
+        top: 200px;
+    }
+
+    #features
+    {
+        position: absolute;
+        top: 240px;
+        left: 700px;
+    }
+
+H2
+{
+	COLOR:MAROON;
+}
+
+#mybutton
+{
+  position: absolute;
+  width: 80px;
+  left : 1400px;
+  top : 15px;
+
+}
+
+#submit
+{
+    background-color: black;
+    width: 80px;
+    position: absolute;
+    top: 475px;
+    color: white;
+    left: 170px;
+}
+
+#myh1
+{
+    font-family:cursive;
+    font-size: 40px; 
+    text-align: center;    
+    color: black;
+}
+
+  #scroll
+  {
+    color: rgb(20, 151, 239);
+  }
